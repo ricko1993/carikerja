@@ -1,5 +1,16 @@
 module.exports = [
   {
+    name: "Ricko Yogga Prima Perdana",
+    status: "Fulltime, Remote",
+    role: "Frontend Developer",
+    location: "Bekasi",
+    social_media: {
+      Github: "https://github.com/ricko1993",
+    },
+    tech_stack: ["React", "Python", "Javascript", "NodeJS"],
+    hired: true,
+  },
+  {
     name: "Erwin Rahayu",
     status: "Fulltime, Remote",
     role: "Full Stack Developer, DevOps",
